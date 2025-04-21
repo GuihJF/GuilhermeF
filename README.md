@@ -4,9 +4,9 @@
 
 👀 Passionate about data analysis and software development
 
-💼 6 years of experience in tech support, customer service, help desk, social media, and e-commerce — all within the tech field
+💼 6 years of professional experiences in technology field
 
-🌱 Currently learning Python (to program and manage data using libraries like Pandas), SQL, and Power BI
+🌱 Currently learning Python (to program and manage data), SQL, and Power BI
 
 🤝 Looking to collaborate on entry-level data projects
 
