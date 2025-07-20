@@ -14,4 +14,4 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I can spend hours organizing spreadsheets — and genuinely enjoy every minute of it!
+⚡ Fun fact: I can spend hours organizing spreadsheets, and genuinely enjoy every minute of it!
