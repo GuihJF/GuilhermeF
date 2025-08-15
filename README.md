@@ -2,7 +2,7 @@
 
 🌍 From São Paulo, currently based in Bogotá, Colombia
 
-👀 Passionate about data analysis and software development
+💻 Passionate about data technology and data
 
 💼 6 years of professional experiences in technology field
 
