@@ -1,17 +1,17 @@
  Hi, I’m Guilherme
 
-🌍 From São Paulo, currently based in Bogotá, Colombia
+🌍 From São Paulo, currently based in Bogotá, Colombia  
 
-💻 Passionate about data technology and data
+💻 Passionate about sports, technology and data  
 
-💼 6 years of professional experiences in technology field
+💼 6 years of professional experiences in technology field  
 
-🌱 Currently learning Python (to program and manage data), SQL, and Power BI
+🌱 Currently focused on data analytics and AI, working with SQL, Python, Power BI, and Excel  
 
-🤝 Looking to collaborate on entry-level data projects
+🤝 Looking to collaborate on entry-level data projects  
 
-📫 Connect with me on LinkedIn: https://www.linkedin.com/in/guilherme-francisco-9320591b5/
+📫 Connect with me on LinkedIn: https://www.linkedin.com/in/guilherme-francisco-9320591b5/  
 
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him  
 
-⚡ Fun fact: I can spend hours organizing spreadsheets, and genuinely enjoy every minute of it!
+⚡ Fun fact: I can spend hours organizing spreadsheets, and genuinely enjoy every minute of it!  
